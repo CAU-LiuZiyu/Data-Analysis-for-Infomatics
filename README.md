@@ -17,7 +17,7 @@ In class presentation:
 
 2-1 介绍如何下载scopus、wos、cnki数据以及数据的基本形式和内容（1分）；
 
-2-2 介绍网络应用程序API是什么，调用API的基本规范和基本方式是什么（1分）；
+2-2 介绍网络应用程序API是什么，调用API的基本规范和基本方式是什么（2分）；
 
 2-3 介绍科技情报数据清洗和整理的基本步骤，每一步的难点都是什么，可结合已有研究论文进行综述（2分）；
 
@@ -37,7 +37,7 @@ In class presentation:
 
 3-4 介绍ScientoPy库（https://github.com/jpruiz84/ScientoPy），分析ScientoPy库的架构，以及核心代码；（3分）
 
-3-5 介绍Awesome Scholarly Data Analysis列表（https://github.com/napsternxg/awesome-scholarly-data-analysis），则要介绍列表中的资源。（2分）
+3-5 介绍Awesome Scholarly Data Analysis列表（https://github.com/napsternxg/awesome-scholarly-data-analysis），则要介绍列表中的资源。（1分）
 
 **Lesson_Four**
 
