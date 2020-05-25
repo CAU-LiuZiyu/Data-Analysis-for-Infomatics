@@ -25,7 +25,7 @@ In class presentation:
 
 **Lesson_Three**
 
-ScientoPy and NLTK
+ScientoPy and MetaKnowledge
 
 In class presentation:
 
@@ -41,7 +41,7 @@ In class presentation:
 
 **Lesson_Four**
 
-Network Analysis and Text Mining
+Network Analysis
 
 In class presentation:
 
@@ -51,4 +51,4 @@ In class presentation:
 
 4-3 介绍vosviewer所使用的聚类算法（smart local moving algorithm），参见相关论文Waltman, L., & Van Eck, N.J. (2013). A smart local moving algorithm for large-scale modularity-based community detection. European Physical Journal B, 86(11), 471；（3分）
 
-4-4 完成CWTS科学计量课程，并分享课程内容和成果。（4分）
+4-4 完成CWTS科学计量课程(https://github.com/CWTSLeiden/CSSS)，并分享课程内容和成果。（4分）
